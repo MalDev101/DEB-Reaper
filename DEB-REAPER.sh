@@ -21,7 +21,7 @@
 #    `:::::`::::::::;' /  / `:#                  
 #     ::::::`:::::;'  /  /   `#  
 
-# Created by TheG0df2ther a MalDev101 project
+# Created by Da2dalus a MalDev101 project
 # This is only an experiment but it can be dangerous.
 # I am not responsible for the damage.
 # This ransomware works only on Debian based distributions.
